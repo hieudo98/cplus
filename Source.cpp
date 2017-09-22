@@ -1,7 +1,8 @@
-﻿#include <iostream>
+#include <iostream>
 #include "Fraction.h"
 using namespace std;
 
+// đã edit 1 lần 10:26
 // hàm tối ưu phân số cho dễ nhìn.
 void optimize(SPhanSo &ps)
 {
